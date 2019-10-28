@@ -1,2 +1,2 @@
 # Deep-Learning
-Coursera specialization
+Coursera Specialization from deeplearning.ai
